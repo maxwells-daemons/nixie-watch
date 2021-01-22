@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name riser)(type Legacy)(uri /home/aidan/dev/nixie-watch/riser/riser.lib)(options "")(descr ""))
+  (lib (name board)(type Legacy)(uri ${KIPRJMOD}/board.lib)(options "")(descr ""))
+)

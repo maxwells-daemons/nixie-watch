@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name riser)(type Legacy)(uri ${KIPRJMOD}/riser.lib)(options "")(descr ""))
+)
